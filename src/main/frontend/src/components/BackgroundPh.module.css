@@ -1,0 +1,24 @@
+.backgroundCard{
+    background-color:#f7f7f7;
+    background-position-x:0%;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    padding-bottom:0px;
+    border-width:0.1px;
+    border-style:solid;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    position:relative;
+    height:500px;
+    overflow:visible;
+    box-shadow:2px 3px 5px 0px #000000;
+    transform:translatex(-13px) translatey(38px);
+   }
+  
+   
